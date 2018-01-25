@@ -1,0 +1,66 @@
+body
+{
+  background-color: #F9EFEF
+;
+
+}
+
+
+header {
+  background-image: url('images/bg-header-01.jpg');
+  background-repeat: no-repeat;()
+  background-position: top center;
+  background-size: cover;
+  min-height: 120vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+h1 {
+  position: center
+  color : #91606D;
+  font-size: 10em;
+  font-family: 'Open Sans Condensed', sans-serif;
+  position: relative;
+}
+
+h2  {
+  position: center
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #91606D;
+}
+
+h3{
+  font-family: 'Open Sans Condensed', sans-serif;
+  background: #F9C7C7;
+}
+
+h4 {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+#level2 {
+
+  font-size: 4em;
+  text-align: center;
+}
+
+#level3 {
+  color : #633434;
+    font-size: 4em;
+    text-align: center;
+
+}
+
+#level4 {
+  color : #633434;
+    font-size: 4em;
+    text-align: center;
+
+
+}
